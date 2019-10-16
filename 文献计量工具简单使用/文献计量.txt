@@ -1,0 +1,1 @@
+本文简单介绍了wos文献高级检索方法，以及简单介绍了几项文献检索的工具:Histcite，bibexcel，VOSViewer，CiteSpace。
